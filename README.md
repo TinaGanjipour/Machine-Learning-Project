@@ -1,6 +1,6 @@
 # Predicting Heart Disease Using Machine Learning
 
-This project was my bachelor thesis and marked one of my first formal introductions to machine learning and bioinformatics. It played an important role in shaping my interest in bioinformatics and in showing me how computational methods can be applied to real biomedical questions.
+This project was my bachelor thesis and marked one of my first formal introductions to machine learning and bioinformatics.
 
 ## Overview
 This notebook investigates whether heart disease can be predicted from clinical and physiological attributes using machine learning. The workflow covers data exploration, feature analysis, model development, hyperparameter tuning, and performance evaluation.
